@@ -9,3 +9,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 3rd July
 - [Minimum Difference Between Largest and Smallest Value in Three Moves (Medium)](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description/?envType=daily-question&envId=2024-07-03)
+
+## 4th July
+- [Merge Nodes in Between Zeros (Medium)](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04)
