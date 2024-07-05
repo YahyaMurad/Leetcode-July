@@ -12,3 +12,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 4th July
 - [Merge Nodes in Between Zeros (Medium)](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/?envType=daily-question&envId=2024-07-04)
+
+## 5th July
+- [Find the Minimum and Maximum Number of Nodes Between Critical Points (Medium)](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05)
