@@ -15,3 +15,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 5th July
 - [Find the Minimum and Maximum Number of Nodes Between Critical Points (Medium)](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2024-07-05)
+
+## 6th July
+- [Pass the Pillow (Easy)](https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06)
