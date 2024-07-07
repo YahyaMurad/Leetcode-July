@@ -18,3 +18,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 6th July
 - [Pass the Pillow (Easy)](https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06)
+
+## 7th July
+- [Water Bottles (Easy)](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2024-07-07)
