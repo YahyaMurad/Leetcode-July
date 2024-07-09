@@ -24,3 +24,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 8th July
 - [Find the Winner of the Circular Game (Medium)](https://leetcode.com/problems/find-the-winner-of-the-circular-game/?envType=daily-question&envId=2024-07-08)
+
+## 9th July
+- [Average Waiting Time (Medium)](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)
