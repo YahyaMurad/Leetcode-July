@@ -27,3 +27,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 9th July
 - [Average Waiting Time (Medium)](https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09)
+
+## 10th July
+- [Crawler Log Folder (Easy)](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)
