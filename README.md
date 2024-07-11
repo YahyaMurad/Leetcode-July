@@ -30,3 +30,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 10th July
 - [Crawler Log Folder (Easy)](https://leetcode.com/problems/crawler-log-folder/description/?envType=daily-question&envId=2024-07-10)
+
+## 11th July
+- [Reverse Substrings Between Each Pair of Parentheses (Medium)](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11)
