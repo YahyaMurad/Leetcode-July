@@ -33,3 +33,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 11th July
 - [Reverse Substrings Between Each Pair of Parentheses (Medium)](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/?envType=daily-question&envId=2024-07-11)
+
+## 12th July
+- [Maximum Score From Removing Substrings (Medium)](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)
