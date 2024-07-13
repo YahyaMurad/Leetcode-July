@@ -36,3 +36,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 12th July
 - [Maximum Score From Removing Substrings (Medium)](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2024-07-12)
+
+## 13th July
+- [Robot Collisions (Hard)](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13)
