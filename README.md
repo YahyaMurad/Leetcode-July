@@ -39,3 +39,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 ## 13th July
 - [Robot Collisions (Hard)](https://leetcode.com/problems/robot-collisions/description/?envType=daily-question&envId=2024-07-13i)
+
+# 14th July
+- [Number of Atoms (Hard)](https://leetcode.com/problems/number-of-atoms/?envType=daily-question&envId=2024-07-14)
