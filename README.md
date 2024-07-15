@@ -42,3 +42,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 14th July
 - [Number of Atoms (Hard)](https://leetcode.com/problems/number-of-atoms/?envType=daily-question&envId=2024-07-14)
+
+# 15th July
+- [Create Binary Tree From Descriptions (Medium)](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)
