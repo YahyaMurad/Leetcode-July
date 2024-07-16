@@ -45,3 +45,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 15th July
 - [Create Binary Tree From Descriptions (Medium)](https://leetcode.com/problems/create-binary-tree-from-descriptions/description/?envType=daily-question&envId=2024-07-15)
+
+# 16th July
+- [Step-By-Step Directions From a Binary Tree Node to Another (Medium)](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16)
