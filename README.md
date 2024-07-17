@@ -48,3 +48,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 16th July
 - [Step-By-Step Directions From a Binary Tree Node to Another (Medium)](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/description/?envType=daily-question&envId=2024-07-16)
+
+# 17th July
+- [Delete Nodes And Return Forest (Medium)](https://leetcode.com/problems/delete-nodes-and-return-forest/?envType=daily-question&envId=2024-07-17)
