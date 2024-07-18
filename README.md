@@ -51,3 +51,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 17th July
 - [Delete Nodes And Return Forest (Medium)](https://leetcode.com/problems/delete-nodes-and-return-forest/?envType=daily-question&envId=2024-07-17)
+
+# 18th July
+- [Number of Good Leaf Nodes Pairs (Medium)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/?envType=daily-question&envId=2024-07-18)
