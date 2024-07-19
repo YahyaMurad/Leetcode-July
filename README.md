@@ -54,3 +54,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 18th July
 - [Number of Good Leaf Nodes Pairs (Medium)](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/description/?envType=daily-question&envId=2024-07-18)
+
+# 19th July
+- [Lucky Numbers in a Matrix (Easy)](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=daily-question&envId=2024-07-19)
