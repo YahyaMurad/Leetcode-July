@@ -57,3 +57,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 19th July
 - [Lucky Numbers in a Matrix (Easy)](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=daily-question&envId=2024-07-19)
+
+# 20th July
+- [Find Valid Matrix Given Row and Column Sums (Medium)](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20)
