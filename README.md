@@ -60,3 +60,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 20th July
 - [Find Valid Matrix Given Row and Column Sums (Medium)](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/description/?envType=daily-question&envId=2024-07-20)
+
+# 21st July
+- [Build a Matrix With Conditions (Hard)](https://leetcode.com/problems/build-a-matrix-with-conditions/?envType=daily-question&envId=2024-07-21)
