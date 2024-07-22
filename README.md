@@ -63,3 +63,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 21st July
 - [Build a Matrix With Conditions (Hard)](https://leetcode.com/problems/build-a-matrix-with-conditions/?envType=daily-question&envId=2024-07-21)
+
+# 22nd July
+- [Sort the People (Easy)](https://leetcode.com/problems/sort-the-people/?envType=daily-question&envId=2024-07-22)
