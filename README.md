@@ -66,3 +66,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 22nd July
 - [Sort the People (Easy)](https://leetcode.com/problems/sort-the-people/?envType=daily-question&envId=2024-07-22)
+
+# 23rd July
+- [Sort Array by Increasing Frequency (Easy)](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23)
