@@ -69,3 +69,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 23rd July
 - [Sort Array by Increasing Frequency (Easy)](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=daily-question&envId=2024-07-23)
+
+# 24th July
+- [Sort the Jumbled Numbers (Medium)](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)
