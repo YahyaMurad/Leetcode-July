@@ -72,3 +72,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 24th July
 - [Sort the Jumbled Numbers (Medium)](https://leetcode.com/problems/sort-the-jumbled-numbers/description/?envType=daily-question&envId=2024-07-24)
+
+# 25th July
+- [Sort an Array (Medium)](https://leetcode.com/problems/sort-an-array/?envType=daily-question&envId=2024-07-25)
