@@ -78,3 +78,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 26th July
 - [Find the City With the Smallest Number of Neighbors at a Threshold Distance (Medium)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/?envType=daily-question&envId=2024-07-26)
+
+# 27th July
+- [Minimum Cost to Convert String I (Medium)](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27)
