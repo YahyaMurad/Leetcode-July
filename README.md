@@ -84,3 +84,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 28th July
 - [Second Minimum Time to Reach Destination (Hard)](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-26)
+
+# 29th July
+- [Count Number of Teams (Medium)](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)
