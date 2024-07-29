@@ -81,3 +81,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 27th July
 - [Minimum Cost to Convert String I (Medium)](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2024-07-27)
+
+# 28th July
+- [Second Minimum Time to Reach Destination (Hard)](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/?envType=daily-question&envId=2024-07-26)
