@@ -87,3 +87,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 29th July
 - [Count Number of Teams (Medium)](https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29)
+
+# 30th July
+- [Minimum Deletions to Make String Balanced (Medium)](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30)
