@@ -90,3 +90,6 @@ A repository for the solutions of the daily Leetcode questions for the month of 
 
 # 30th July
 - [Minimum Deletions to Make String Balanced (Medium)](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30)
+
+# 31st July
+- [Filling Bookcase Shelves (Medium)](https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31)
